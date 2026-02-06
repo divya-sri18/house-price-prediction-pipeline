@@ -47,7 +47,10 @@ house-price-prediction-pipeline/
 
 ## How to Run
 pip install -r requirements.txt
+
 python test_ingestion.py
+
 python test_transformation.py
+
 python test_training.py
 
